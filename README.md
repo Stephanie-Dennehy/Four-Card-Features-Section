@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Stephanie-Dennehy/Four-Card-Features-Section]
+- Live Site URL: [https://stephanie-dennehy.github.io/Four-Card-Features-Section/]
 
 ## My process
 
@@ -48,7 +48,6 @@ I want to go back and refactor the code so I can clean up some of the classes th
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yStephanie-Dennehy](https://www.frontendmentor.io/profile/stephanie-dennehy)
+- Twitter - [@Steph_Dennehy](https://www.twitter.com/Steph_Dennehy)
 
